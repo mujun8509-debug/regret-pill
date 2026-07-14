@@ -1,2 +1,2 @@
-:HL["/_next/static/chunks/08s-dwn6l97nb.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"-UUu13seNPwH9KONbtOZO"}
+:HL["/regret-pill/_next/static/chunks/08s-dwn6l97nb.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"qoPO5CtHa4kO8NXg9bRe0"}
